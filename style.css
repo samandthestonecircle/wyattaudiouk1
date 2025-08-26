@@ -68,7 +68,7 @@ p2 {
 
 p3 {
     font-family: digital-dream;
-    font-size: 27px;
+    font-size: 1.5em;
     color: greenyellow;
 }
 
@@ -864,4 +864,5 @@ footer {
     color: var(--black);
     cursor: pointer;
 }
+
 
